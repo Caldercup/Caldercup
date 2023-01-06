@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Caldercup
+- 👋 Hi, I’m @Caldercup I use They/Them Pronouns 
 - 👀 I’m interested in learning, making friends, having fun
-- 🌱 I’m currently learning Javascript, HTML/CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript, HTML/CSS, and Python
+- 💞️ I’m looking to collaborate on SQL injection, and webscraping
 - 📫 How to reach me Caldercup@protonmail.com
